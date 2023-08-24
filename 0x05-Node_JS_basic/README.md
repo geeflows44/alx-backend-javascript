@@ -1,1 +1,40 @@
-0x05. NodeJS Basics
+# 0x05. NodeJS Basics
+![nodejs](https://camo.githubusercontent.com/9d2feaa751d52a1fe07687e948add2476976c3532512d72bfa6412d0a4433680/68747470733a2f2f7473682e696f2f77702d636f6e74656e742f75706c6f6164732f666c792d696d616765732f31323834322f7768792d6e6f64652d6a732d383130783534302e6a7067)
+
+## Resources
+### Read or watch:
+
++ [Node JS getting started](https://nodejs.org/en/docs/guides/getting-started-guide)
+
++ [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
+
++ [Child process](https://nodejs.org/api/child_process.html)
+
++ [Express getting started](https://expressjs.com/en/starter/installing.html)
+
++ [Mocha documentation](https://mochajs.org/)
+
++ [Nodemon documentation](https://mochajs.org/)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, **without the help of Google:**
+
++ run javascript using NodeJS
++ use NodeJS modules
++ use specific Node JS module to read files
++ use `process` to access command line arguments and the environment
++ create a small HTTP server using Node JS
++ create a small HTTP server using Express JS
++ create advanced routes with Express JS
++ use ES6 with Node JS with Babel-node
++ use Nodemon to develop faster
+## Requirements
++ Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`
++ All your files will be interpreted/compiled on Ubuntu 18.04 LTS using `node` (version 12.x.x)
++ All your files should end with a new line
++ A `README.md` file, at the root of the folder of the project, is mandatory
++ Your code should use the `js` extension
++ Your code will be tested using `Jest` and the command `npm run test`
++ Your code will be verified against lint using ESLint
++ Your code needs to pass all the tests and lint. You can verify the entire project running `npm run full-test`
++ All of your functions/classes must be exported by using this format: `module.exports = myFunction;`
