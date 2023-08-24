@@ -13,8 +13,7 @@
 
 + [Request](https://www.npmjs.com/package/request)
 
-+ [How to Test NodeJS Apps using Mocha, Chai and SinonJS](https://www.digitalocean.com/community/tutorials/how-to-test-nodejs-apps- 
-  using-mocha-chai-and-sinonjs)
++ [How to Test NodeJS Apps using Mocha, Chai and SinonJS](https://www.digitalocean.com/community/tutorials/how-to-test-nodejs-apps-using-mocha-chai-and-sinonjs)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone **without the help of Google:**
